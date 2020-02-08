@@ -30,7 +30,7 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: blue }
 
 .gs-section-01 p {
      font-size: 30px;
