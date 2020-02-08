@@ -2,7 +2,7 @@
 layout: page
 title: Getting started
 subtitle: How to use Beautiful Jekyll
-bigimg: //img/ASU.jpg
+bigimg: /img/ASU.jpg
 ---
 
 **Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
