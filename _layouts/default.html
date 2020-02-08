@@ -1,9 +1,41 @@
----
-layout: base
----
+!DOCTYPE html>
+<html lang="en">
+    
+    {% include head.html %}
 
-<div class="intro-header"></div>
+                                          <!-- START OF CONTENT  -->
+    <body>                                
+        
+                                          <!-- top slice of bread  -->
+       {% include header.html %}        
+     
+                                          <!-- sandwich meat  -->
+       {{ content }}                      
+        
+                                          <!-- bottom slice of bread  -->
+       {% include footer.html %}          
+        
+                                          <!-- END OF CONTENT  --> 
+    </body>                               
 
-<div role="main" class="container">
-  {{ content }}
-</div>
+</html>
+
+
+
+
+
+<style>
+ 
+body { 
+ margin-right: auto; 
+ margin-left: auto; 
+ width: 800px; 
+ padding-top: 50px;
+ padding-left: 10px;
+ padding-bottom: 50px;
+ padding-right: 10px;
+ background-color: oldlace;
+}
+ 
+button {
+  background-color: #555555; 
