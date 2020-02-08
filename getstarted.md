@@ -23,12 +23,12 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
-<div class="gs-section-01">
 
+<div class="text-white bg-gray-dark mb-2">
+  .text-white on .bg-gray-dark
 ### 1. Fork the Beautiful Jekyll repository 
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
-by clicking the Fork button on the top right corner in GitHub.
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 
@@ -49,14 +49,3 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
-
-<style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
