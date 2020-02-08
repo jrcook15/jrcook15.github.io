@@ -83,7 +83,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 }
 
 .gs-section-02 h3 {
-     font-family: cursive;
+     font-family: FreeMono;
 }
  
 .gs-section-02 p {
@@ -91,12 +91,12 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
  }
  
  .gs-section-03 h3 {
-     color: #9e1c23;
-     font-family: serif;
+     color: #d03592;
+     font-family: Avantgarde;
 }
  
 .gs-section-03 p {
-     font-weight: bold;
+     font-weight: 800;
  }
 
 .gs-button {
