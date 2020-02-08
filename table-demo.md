@@ -1,5 +1,5 @@
 ---
-layout: liquid-table
+layout: page
 title: 'amiright?'
 
 reynolds:
