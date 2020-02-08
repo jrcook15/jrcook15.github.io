@@ -2,9 +2,6 @@
 layout: liquid-table
 title: 'amiright?'
 
-![](img/ryan-v-ryan.jpg)  
-
----
 reynolds:
   strengths:
   - good father
@@ -25,7 +22,7 @@ gosling:
   - not ryan reynolds
 ---
 
-
+![]({{site.url}}/img/ryan-v-ryan.jpg)   
 
 
 ## Lorem Ipsum
