@@ -83,7 +83,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 }
 
 .gs-section-02 h3 {
-     font-family: FreeMono;
+     font-family: Georgia;
 }
  
 .gs-section-02 p {
